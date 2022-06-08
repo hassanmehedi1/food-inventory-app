@@ -4,7 +4,7 @@
 ![SiteGif](/src/img/gif/foodGif.gif)
 
 ### Description
- KhabarChai.com is a food inventory MERN-Stack website with CRUD operation.(fully responsive), This website implements full CRUD operation. All buttons are functional here. Integrated 3rd-party components from Tailwind, DaisyUi & for elegent UI/UX. Upon login, a user can Deliver or Restock the food item. Users can also add any food item. Jwt authorization is implemented on this site for which only authorized users can see his/her added items only.
+KhabarChai.com is a food inventory MERN-Stack website with CRUD operation.(fully responsive), This website implements full CRUD operation. All buttons are functional here. Integrated 3rd-party components from Tailwind, DaisyUi & for elegent UI/UX. Upon login, a user can Deliver or Restock the food item quantity. Users can also add any food item. Jwt authorization is implemented on this site for which only authorized users can see his/her added items only.
 * Note: Backend Code is Hosted on Heroku(Free-Hosting). So sometime products data might not load at first time, in that case please reload the page again, it will solve this issue.
 
 ### [Server Side Code](https://github.com/hassanmehedi1/food-inventory-server-)
